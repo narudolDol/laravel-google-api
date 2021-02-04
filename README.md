@@ -9,12 +9,15 @@
 - [ไปที่ google calendar setting](https://calendar.google.com/calendar/u/0/r/settings)
 - ทำการสร้าง calendar -> ไปที่เมนูตั้งค่า calendar เลือกcalendar ที่สร้างขึ้นมา-> ไปที่ใช้ร่วมกับบุคคลอื่น แล้ว เพิ่ม google carlendar service ที่สร้างขึ้นมา เช่น         booking@testmikotik.iam.gserviceaccount.com
 - copy calendar id ไปใส่ใน .env GOOGLE_CALENDAR_ID="google calendar id"
-- [Ref.](https://github.com/spatie/laravel-google-calendar)
+
 
 
 ## Laravel
 - composer install.
-- php aritsan serv
+- php aritsan serv.
+- ไฟล์ตัวอย่างจะอยู่ใน GoogleController.
 - Server start:127.0.0.1:8000/
 
+
+- [ดุเพิ่มเติมได้ที่ spatie/laravel-google-calendar.](https://github.com/spatie/laravel-google-calendar)
 
