@@ -18,6 +18,6 @@
 - ไฟล์ตัวอย่างจะอยู่ใน GoogleController.
 - Server start:127.0.0.1:8000/
 
-
+## หมายเหตุ
 - [ดุเพิ่มเติมได้ที่ spatie/laravel-google-calendar.](https://github.com/spatie/laravel-google-calendar)
-
+- ไฟล์ json และ GOOGLE_CALENDAR_ID ใน .env เป็นตัวอย่างจากที่ผมลองทดสอบ
